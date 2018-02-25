@@ -1,10 +1,5 @@
 #!/bin/bash
 
-# echo "removing files"
-# rm archmergelinux_repo.db archmergelinux_repo.db.sig
-# rm archmergelinux_repo.db.tar.gz archmergelinux_repo.db.tar.gz.sig
-# rm archmergelinux_repo.files archmergelinux_repo.files.sig
-# rm archmergelinux_repo.files.tar.gz archmergelinux_repo.files.tar.gz.sig
 rm arcolinux_repo_iso*
 
 
